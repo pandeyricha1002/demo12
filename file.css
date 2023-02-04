@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+}
+h2 {
+  color: green;
+}
+.class-greenyellow {
+  color: greenyellow;
+}
+p {
+  color: red;
+}
+#font-style {
+  font-style: italic;
+}
